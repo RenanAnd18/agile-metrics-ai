@@ -1,4 +1,3 @@
-
 # 🤖 AgileMetrics AI – Análise Inteligente de Métricas Ágeis
 
 ## 📌 Visão Geral
@@ -87,5 +86,55 @@ agile-metrics-ai/
 Dados simulados de uma sprint:
 
 ```txt
-Sprint
+Sprint: Sprint 24
+Lead Time médio: 10 dias
+Cycle Time médio: 7 dias
+Throughput: 9 itens
+WIP médio: 11
+Itens planejados: 15
+Itens entregues: 9
+Bugs abertos: 9
+Bugs fechados: 6
 ```
+
+---
+
+## 📈 Exemplo de Saída
+
+A IA gera uma análise estruturada contendo:
+
+* Diagnóstico do time
+* Gargalos identificados
+* Riscos
+* Ações recomendadas para PO e Scrum Master
+
+Os exemplos completos podem ser encontrados na pasta `outputs/`.
+
+---
+
+## 🔄 Integração com Ferramentas Ágeis
+
+O projeto foi pensado para refletir cenários reais de mercado, especialmente times que utilizam ferramentas como:
+
+* Azure DevOps
+* Jira
+
+Atualmente, os dados são simulados para fins de estudo e portfólio, mas a estrutura permite evolução futura para integração automática.
+
+---
+
+## 🚀 Próximos Passos
+
+* Comparação de métricas entre sprints
+* Análise de tendências
+* Dashboard simples para visualização
+* Integração com Azure DevOps (futuro)
+
+---
+
+## 🧑‍💼 Autor
+
+**Renan Andrade**
+Profissional de tecnologia com experiência em QA, Produto e práticas ágeis.
+
+🔗 LinkedIn: [https://www.linkedin.com/in/renan-andrade-ribeiro-105056167/](https://www.linkedin.com/in/renan-andrade-ribeiro-105056167/)
