@@ -1,1 +1,7 @@
+sprint,lead_time_medio_dias,cycle_time_medio_dias,throughput,wip_medio,itens_planejados,itens_entregues,bugs_abertos,bugs_fechados
+Sprint 21,7,4,13,8,15,13,6,8
+Sprint 22,8,5,12,9,14,12,7,6
+Sprint 23,9,6,11,10,15,11,8,7
+Sprint 24,10,7,9,11,15,9,9,6
+Sprint 25,8,5,12,9,14,12,6,7
 
