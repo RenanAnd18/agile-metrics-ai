@@ -22,6 +22,7 @@ As métricas incluem:
 
 ## 📊 Dados de Entrada
 Utilize os dados fornecidos no formato abaixo (exemplo):
+
 (Podemos usar um arquivo .CSV exportado do Azure Dvops)
 
 Sprint: Sprint 24  
