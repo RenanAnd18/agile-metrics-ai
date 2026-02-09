@@ -1,30 +1,15 @@
-# 📊 Métricas Utilizadas
+# 📈 Exemplos de Insights Gerados
 
-Este projeto utiliza métricas ágeis consolidadas, com foco em **fluxo, previsibilidade e entrega de valor**.
+Abaixo estão exemplos de insights que o AgileMetrics AI é capaz de gerar a partir das métricas analisadas.
 
-## Lead Time
-Tempo total desde a criação de uma demanda até sua entrega em produção.  
-É utilizado para avaliar previsibilidade e tempo de resposta ao negócio.
+## Exemplo 1 – Gargalo de Fluxo
+O aumento progressivo do Cycle Time, combinado com WIP elevado, indica possível gargalo nas etapas finais do fluxo, como testes ou validação. Recomenda-se limitar WIP e priorizar a finalização de itens antes de iniciar novos.
 
-## Cycle Time
-Tempo em que o item esteve efetivamente em desenvolvimento.  
-Ajuda a identificar gargalos no fluxo de trabalho.
+## Exemplo 2 – Baixa Previsibilidade
+A diferença recorrente entre itens planejados e entregues sugere que o planejamento está acima da capacidade real do time. É recomendada a revisão da forma de estimar e o uso do throughput médio como base.
 
-## Throughput
-Quantidade de itens entregues por sprint.  
-Utilizado para entender a capacidade real do time ao longo do tempo.
+## Exemplo 3 – Risco de Qualidade
+O aumento no número de bugs abertos em relação aos fechados pode indicar comprometimento da qualidade. É importante avaliar critérios de aceite, cobertura de testes e políticas de pronto.
 
-## WIP (Work in Progress)
-Quantidade média de itens em andamento durante a sprint.  
-WIP elevado geralmente indica gargalos e perda de eficiência.
-
-## Itens Planejados vs Entregues
-Compara o comprometimento do time com a entrega real.  
-Diferenças recorrentes indicam problemas de planejamento ou excesso de demanda.
-
-## Bugs Abertos e Fechados
-Indicadores de qualidade e estabilidade do produto.  
-Ajudam a identificar se o time está conseguindo equilibrar entrega e qualidade.
-
-O foco do AgileMetrics AI não é explicar cada métrica isoladamente, mas **analisar o conjunto e suas correlações**, apoiando decisões estratégicas.
-
+## Exemplo 4 – Sinal de Recuperação
+A redução de Lead Time e aumento de throughput em uma sprint posterior pode indicar que ações corretivas surtiram efeito, reforçando a importância de acompanhar tendências e não métricas isoladas.
